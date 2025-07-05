@@ -29,3 +29,9 @@ li {
     display: flex;
  
 }
+
+.herobanner {
+    background-image: url(/images/image.png);
+    height: 720px;
+    width: 100%;
+}
